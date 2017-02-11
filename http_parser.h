@@ -159,6 +159,7 @@ enum http_status
 #undef XX
   };
 
+#undef HTTP_STATUS_MAP
 
 /* Request Methods */
 #define HTTP_METHOD_MAP(XX)         \
